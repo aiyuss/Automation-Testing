@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 28 12:12:02 NPT 2024","Wed Aug 28 12:12:27 NPT 2024","24435","chromium","Swag Labs\CartViewBox\cartviewbox.spec.js","","","","Add items to the Cart",""
