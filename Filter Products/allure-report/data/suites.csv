@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 28 12:10:26 NPT 2024","Wed Aug 28 12:10:45 NPT 2024","18793","chromium","Swag Labs\Filter Products\filterproducts.spec.js","Filter Products By Size and Price","","","Price (Low to High)",""
+"passed","Wed Aug 28 12:10:25 NPT 2024","Wed Aug 28 12:10:44 NPT 2024","19629","chromium","Swag Labs\Filter Products\filterproducts.spec.js","Filter Products By Size and Price","","","Descending Order",""
